@@ -1,0 +1,6 @@
+{
+  "name": "Adaptive Path Planning for Autonomous Warehouse Robots",
+  "description": "Adaptive Path Planning for Autonomous Warehouse Robots Using Deep Reinforcement Learning (DQN) vs A* Pathfinding simulation and training platform for SIMATS Engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
